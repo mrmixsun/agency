@@ -379,7 +379,9 @@ label {
 }
 
 .why-section {
-  padding: 200px 40px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  padding-left: 40px;
   background-color: #000;
   color: #f0f0f0;
 }
