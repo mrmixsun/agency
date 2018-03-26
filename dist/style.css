@@ -296,8 +296,9 @@ label {
 
 .price-section {
   background-color: #000;	
-  padding-top: 50px;
-  padding-bottom: 30px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #f0f0f0;
 }
 
 .contact-us {
@@ -641,7 +642,7 @@ label {
   max-width: 1130px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 140px;
+  /*padding-top: 140px;*/
   -webkit-justify-content: space-around;
   -ms-flex-pack: distribute;
   justify-content: space-around;
@@ -1623,6 +1624,7 @@ html.w-mod-js *[data-ix="particles"] {
   .price-section {
     padding-right: 20px;
     padding-left: 20px;
+    color: #f0f0f0;
   }
   .contact-us {
     max-width: 500px;
