@@ -968,8 +968,8 @@ label {
 }
 
 .top-block {
-  height: 89vh;
-  max-height: 740px;
+  /*height: 89vh;
+  max-height: 740px;*/
   min-height: 550px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
