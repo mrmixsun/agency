@@ -329,6 +329,15 @@ label {
   align-items: flex-end;
 }
 
+.blog-chep {
+  display: block;
+  max-width: 720px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
 .blog-button {
   margin-top: 50px;
   margin-bottom: 100px;	
