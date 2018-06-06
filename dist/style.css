@@ -297,7 +297,7 @@ label {
 .price-section {
   background-color: #000;	
   padding-top: 80px;
-  padding-bottom: 200px;
+ /* padding-bottom: 200px; */
   color: #f0f0f0;
 }
 
@@ -327,6 +327,25 @@ label {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
+}
+
+.blog-button {
+  margin-top: 50px;
+  margin-bottom: 100px;	
+  padding: 17px 60px 21px;
+  border-radius: 60px;
+  background-color: transparent;
+  background-image: -webkit-linear-gradient(270deg, #ff9e7f, #ff014a);
+  background-image: linear-gradient(180deg, #ff9e7f, #ff014a);
+  box-shadow: 0 30px 100px -10px rgba(255, 0, 31, .8);
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+  color: #fff;
+  font-weight: 400;
+}
+
+.blog-button:hover {
+  box-shadow: 0 50px 90px -10px rgba(255, 0, 31, .54);
 }
 
 .telegram-button {
