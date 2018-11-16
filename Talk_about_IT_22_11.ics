@@ -18,7 +18,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN=Петрова Марина Алексеевна:MAILTO:m.a.pe
  trova@s7.ru
-DESCRIPTION;LANGUAGE=ru-RU:
+DESCRIPTION;LANGUAGE=ru-RU:Приходите 22 ноября к 15:30 или чуть раньше, будем ждать!\n\n\n
 SUMMARY;LANGUAGE=ru-RU:Очередной митап Talk about IT // 22 н
  оября\, 15:30
 DTSTART;TZID=N. Central Asia Standard Time:20181122T153000
