@@ -19,7 +19,7 @@ BEGIN:VEVENT
 ORGANIZER;CN=Петрова Марина Алексеевна:MAILTO:m.a.pe
  trova@s7.ru
 DESCRIPTION;LANGUAGE=ru-RU:Приходите 7 февраля к 14:00 или чуть раньше, будем ждать!\n\n\n
-SUMMARY;LANGUAGE=ru-RU:Очередной митап Talk about IT // 2 ф
+SUMMARY;LANGUAGE=ru-RU: Talk about IT // 7 ф
  евраля\, 14:00
 DTSTART;TZID=N. Central Asia Standard Time:20190207T140000
 DTEND;TZID=N. Central Asia Standard Time:20190207T170000
