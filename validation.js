@@ -1,7 +1,7 @@
 function passw(){
 var txt = document.getElementById("text").value;
 if (txt == 'test' || txt == 'promo') {
-$('.t-prefix_1').css('display', 'block'); // Делает див видимым(по умолчанию).
+$('.t-prefix_3').css('display', 'block'); // Делает див видимым(по умолчанию).
 document.getElementById("text").style.display="none";
 document.getElementById("buttonform").style.display="none";
 document.getElementById("error").style.display="none";
