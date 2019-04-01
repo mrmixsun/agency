@@ -125,6 +125,9 @@ document.getElementById("error").style.display="none";
 document.getElementById("succes").style.display="none";
 document.getElementById("rec91171072").style.display="none";	
 document.getElementById("rec90671125").style.display="block";
+$("form").each(function () {
+$(this).append('<input type="hidden" name="nazvanie-polya" value="'+txt+'">');
+});	
 }
 else { 
     document.getElementById("error").style.display="block";
